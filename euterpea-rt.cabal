@@ -3,7 +3,7 @@ cabal-version:       >=1.10
 -- 'cabal init'.  For further documentation, see
 -- http://haskell.org/cabal/users-guide/
 
-name:                euterpea-explorations2
+name:                euterpea-rt
 version:             0.1.0.0
 -- synopsis:
 -- description:
@@ -17,7 +17,7 @@ category:            Sound
 build-type:          Simple
 extra-source-files:  CHANGELOG.md
 
-executable euterpea-explorations2
+executable euterpea-rt
   main-is:            Main.hs
   other-modules:      Control.Arrow.ArrowP,
                       Control.SF.SF,

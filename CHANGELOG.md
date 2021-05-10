@@ -1,4 +1,4 @@
-# Revision history for euterpea-explorations2
+# Revision history for euterpea-rt
 
 ## 0.1.0.0 -- YYYY-mm-dd
 
